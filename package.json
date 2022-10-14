@@ -1,0 +1,14 @@
+{
+  "name": "compress-font",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fontmin": "^0.9.9"
+  }
+}
